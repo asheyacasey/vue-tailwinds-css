@@ -54,11 +54,16 @@ import HelloWorld from './components/HelloWorld.vue'
 <div class="pt-20">
   <img  src="./assets/karategirl.svg" class="h-13 mr-3 sm:h-96" alt="Flowbite Logo ">
 </div>
-     
   </div>
+  
 
 </div>
-  
+<div class="h-96">
+  <div class="bg-white h-20 mt-[30px] grid place-items-center font-Inter font-bold ">TRUSTED BY OVER 249 MARTIAL ARTS SCHOOLS AND ORGANIZATION</div>
+<div class="bg-white grid place-items-center h-36">
+  <img  src="./assets/sponsors.svg" class="h-13 mr-3 sm:h-20 " alt="Flowbite Logo ">
+</div>
+</div>
 </div>
  
 </template>
