@@ -64,6 +64,20 @@ import HelloWorld from './components/HelloWorld.vue'
   <img  src="./assets/sponsors.svg" class="h-13 mr-3 sm:h-20 " alt="Flowbite Logo ">
 </div>
 </div>
+
+<div class="flex flex-row mt-10 h-96">
+  <div class="mt-[5rem] ml-[10rem] text-blue">
+    <p class="text-4xl font-semibold font-Inter">User-friendly and<br/> Detailed Dashboard</p>
+    <p class="pt-4 text-sm font-Inter font-normal">Pleasing Dashboard with complete necessary<br/>information for your school. Get Up to Date with the<br/>status weekly, monthly or yearly.</p>
+    <button class="mt-10 pt-3 pb-3 pr-10 pl-10 rounded-md drop-shadow-md font-Inter text-sm font-semibold text-white bg-light-blue">Learn More</button>
+  </div>
+  <div class="h-36">
+  <img  src="./assets/Dashboard.svg" class="h-15 ml-[5rem] sm:h-63 " alt="dashboard">
+</div>
+</div>
+
+
+
 </div>
  
 </template>
