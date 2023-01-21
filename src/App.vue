@@ -76,10 +76,10 @@ import HelloWorld from './components/HelloWorld.vue'
 </div>
 </div>
 
-<div class="flex flex-row h-[40rem] bg-no-repeat object-fill bg-[url('./assets/mobile.svg')] ">
+<div class="flex flex-row h-[40rem] bg-no-repeat  object-fill bg-[url('./assets/mobile.svg')] ">
   <div class="mt-[10rem] ml-[45rem] text-blue">
-    <p class="text-4xl font-semibold font-Inter">User-friendly and<br/> Detailed Dashboard</p>
-    <p class="pt-4 text-sm font-Inter font-normal">Pleasing Dashboard with complete necessary<br/>information for your school. Get Up to Date with the<br/>status weekly, monthly or yearly.</p>
+    <p class="text-4xl font-semibold font-Inter">Mobile-Friendly</p>
+    <p class="pt-4object-fill text-sm font-Inter font-normal">We make sure you can manage everything even on your <br/>phone. Axis provides Mobile responsiveness for easy<br/>accessibility. </p>
     <button class="mt-10 pt-3 pb-3 pr-10 pl-10 rounded-md drop-shadow-md font-Inter text-sm font-semibold text-white bg-light-blue">Learn More</button>
   </div>
  
