@@ -116,7 +116,83 @@ import HelloWorld from './components/HelloWorld.vue'
 
     </div>
 
-    <div class="bg-[#527AF5] h-[40rem]"></div>
+    <div class="bg-[#527AF5] h-[40rem]">
+      <p class="pt-[4rem] text-center text-white font-Inter text-4xl font-semibold ">Our Features</p>
+      <div class="flex flex-row mt-[3rem] text-white font-Inter">
+        <div class=" ml-[14rem] ">
+          <img src="./assets/icon1.svg" class="h-10" alt="dashboard">
+            <h1 class="pt-2 font-bold">Dashboard</h1>
+            <ul class="pl-5 list-disc text-sm">
+              <li>Student & Lead Attendance</li>
+              <li>Membership Status</li>
+              <li>Program Status</li>
+              <li>Heat Map</li>
+              <li>Birthday Tracker</li>
+            </ul>
+        </div>
+        <div class="ml-[9rem]">
+          <img src="./assets/icon2.svg" class="h-10" alt="profile">
+            <h1 class="pt-2 font-bold">Student & Lead  Profile</h1>
+            <ul class="pl-5 list-disc text-sm">
+              <li>Daily Attendance</li>
+              <li>Performance Status</li>
+              <li>Grade Management</li>
+              <li>Membership Status</li>
+              <li>Digital Agreements</li>
+            </ul>
+        </div>
+        <div class="ml-[10rem]">
+          <img src="./assets/icon3.svg" class="h-10" alt="programs">
+            <h1 class="pt-2 font-bold">Programs and Ranks</h1>
+            <ul class="pl-5 list-disc text-sm">
+              <li>Custom Programs</li>
+              <li>Subranks</li>
+              <li>Grade Management</li>
+              <li>Membership Status</li>
+              <li>Digital Agreements</li>
+            </ul>
+        </div>
+      </div>
+
+      <div class="flex flex-row mt-[3rem] text-white font-Inter">
+        <div class=" ml-[14rem]">
+          <img src="./assets/icon1.svg" class="h-10" alt="dashboard">
+            <h1 class="pt-2 font-bold">Manage Grading System</h1>
+            <ul class="pl-5 list-disc text-sm">
+              <li>Student & Lead Attendance</li>
+              <li>Membership Status</li>
+              <li>Program Status</li>
+              <li>Heat Map</li>
+              <li>Birthday Tracker</li>
+            </ul>
+        </div>
+        <div class="ml-[9rem]">
+          <img src="./assets/icon4.svg" class="h-10" alt="profile">
+            <h1 class="pt-2 font-bold">Syllabus</h1>
+            <ul class="pl-5 list-disc text-sm">
+              <li>Daily Attendance</li>
+              <li>Performance Status</li>
+              <li>Grade Management</li>
+              <li>Membership Status</li>
+              <li>Digital Agreements</li>
+            </ul>
+        </div>
+        <div class="ml-[12rem]">
+          <img src="./assets/icon5.svg" class="h-10" alt="programs">
+            <h1 class="pt-2 font-bold">Attendance Tracker</h1>
+            <ul class="pl-5 list-disc text-sm">
+              <li>Custom Programs</li>
+              <li>Subranks</li>
+              <li>Grade Management</li>
+              <li>Membership Status</li>
+              <li>Digital Agreements</li>
+            </ul>
+        </div>
+      </div>
+
+
+      
+    </div>
 
     <div class="flex flex-row h-[28rem] bg-no-repeat  object-fill bg-[url('./assets/whyAxis.svg')] ">
 
@@ -163,7 +239,8 @@ import HelloWorld from './components/HelloWorld.vue'
       </div>
       
     </div>
-    <div class="bg-[#527AF5] h-[10rem]"></div>
+    <div class="bg-[#527AF5] h-[10rem]">     
+    </div>
 
   </div>
 
