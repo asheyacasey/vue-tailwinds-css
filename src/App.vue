@@ -236,10 +236,51 @@ import HelloWorld from './components/HelloWorld.vue'
         </div>
 
 
+      </div>      
+    </div>
+
+    <div class="flex flex-row bg-gradient-to-r from-dark-blue to-sky-blue h-[10rem]">
+      <h1 class="mt-[3rem] ml-[15rem] text-white text-2xl font-Inter font-bold ">Ready to get started?<br/>Get in touch and Join Us!</h1>
+      <button type="button"
+            class="mt-[4rem] mb-[3rem] ml-[15rem] pl-[4rem] pr-[4rem] rounded-lg drop-shadow-md font-Inter text-lg font-semibold text-light-blue bg-white">Join
+            Now</button>     
+    </div>
+
+    <div class="h-[20rem] bg-white">
+      <div class="flex flex-row text-sm">
+      <img src="./assets/Logo-white.svg" class="h-[5rem] mt-[3rem] ml-[10rem]" alt="logo">
+
+      <div class="mt-[3rem] ml-[5rem]">
+        <h1 class="text-gray font-medium">QUICK LINKS</h1>
+        <ul class="text-blue pt-4">
+          <li class="pb-3">Solution</li>
+          <li class="pb-3">Product</li>
+          <li>About</li>
+        </ul>
+      </div>
+
+      <div class="mt-[3rem] ml-[5rem]">
+        <h1 class="text-gray font-medium">LEGAL</h1>
+        <ul class="text-blue pt-4">
+          <li class="pb-3">Claim</li>
+          <li class="pb-3">Privacy</li>
+          <li>Terms</li>
+        </ul>        
+      </div>
+
+      <div class="mt-[3rem] ml-[5rem]">
+        <h1 class="text-gray font-medium">SUBSCRIBE TO OUR NEWSLETTER</h1>
+        <p class="text-blue pt-4">The latest news, articles, and resources, sent <br/>to your inbox.</p>
+        <button type="button"
+            class="mt-[3rem] mb-[3rem] ml-[13rem] pt-2 pb-2 pl-[2rem] pr-[2rem] rounded-lg drop-shadow-md font-Inter text-sm font-semibold text-white bg-light-blue">Get Started</button>
+      </div>
+
+      </div>
+
+      <div class="text-gray ml-[10rem] mt-3">
+        <p>@2021 Axis, Inc. All rights reserved</p>
       </div>
       
-    </div>
-    <div class="bg-[#527AF5] h-[10rem]">     
     </div>
 
   </div>
